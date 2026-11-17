@@ -1,6 +1,6 @@
 # Secure Coding
 
-Tutorial material for a secure coding course: a small Flask app that is **intentionally insecure**: it shows common web vulnerabilities, like stored XSS in comments, CSRF on money transfers, and plaintext password checks, with TODOs marking how to fix each one.
+Tutorial material: a small Flask app that is **intentionally insecure**: it shows common web vulnerabilities, like stored XSS in comments, CSRF on money transfers, and plaintext password checks, with TODOs marking how to fix each one.
 
 Don't deploy it. The tutorial requirements are in `Secure_Coding.pdf`.
 
